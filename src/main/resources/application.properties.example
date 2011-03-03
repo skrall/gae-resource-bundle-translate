@@ -1,0 +1,18 @@
+#
+# Application properties
+#
+
+#
+# Google Javascript API key
+#
+google.js.api.key=<your key here>
+
+#
+# Google Translate Service API key
+#
+google.translate.api.key=<your key here
+
+#
+# Google Analytics Service API key
+#
+google.analytics.api.key=<your key here>
